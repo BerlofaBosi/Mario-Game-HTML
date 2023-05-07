@@ -1,5 +1,7 @@
 # Mario-Game-HTML
-Jogo simples do Mário estilo o jogo do dinossauro do Chrome. Feito a partir do seguinte tutorial: https://www.youtube.com/watch?v=r9buAwVBDhA&list=PLifXfP18sQic_vwSdPF206xJB-G8GxbwP&index=4&t=407s
+Jogo simples do Mário estilo o jogo do dinossauro do Chrome. 
+
+Feito a partir do seguinte tutorial: https://www.youtube.com/watch?v=r9buAwVBDhA&list=PLifXfP18sQic_vwSdPF206xJB-G8GxbwP&index=4&t=407s
 
 Link de acesso ao jogo: https://berlofabosi.github.io/Mario-Game-HTML/
 
